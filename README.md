@@ -23,6 +23,9 @@
 [<img align="left" alt="Gmail" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png?style=for-the-badge" />](mailto:olexandr.andriyash@gmail.com)
 [<img align="left" alt="Linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />](https://www.linkedin.com/in/oleksandr-andriyash-6820091ab/)
 [<img align="left" alt="Telegram" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />](https://t.me/AndriyashS)
----
-### Codewars
+
+<br/>
+<br/>
+
+
 [![codewars](https://www.codewars.com/users/AlexIaInder/badges/large)](https://www.codewars.com/users/AlexIaInder)
