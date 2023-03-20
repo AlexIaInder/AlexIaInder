@@ -12,7 +12,6 @@
 <img align="left" alt="JS" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
 <img align="left" alt="React" width="40px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"/>
 <img align="left" alt="Redux" width="40px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png">
-<img align="left" alt="Webpack" width="40px" src="https://webpack.js.org/icon-pwa-512x512.d3dae4189855b3a72ff9.png">
 <img align="left" alt="GIT" width="40px" src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png">
 
 <br/>
